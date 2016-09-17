@@ -30,7 +30,7 @@ top_term:
   - "1"
 tags: [ ]
 categories:
-  - Uncategorized
+  - Birthdays
 ---
 Dear Theresa,
 
