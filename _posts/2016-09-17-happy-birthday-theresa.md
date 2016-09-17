@@ -27,7 +27,7 @@ featured_media:
     		</tr>
     </table>";s:4:"meta";s:0:"";}s:13:"external_link";s:0:"";s:6:"target";s:0:"";s:3:"rel";s:0:"";}}
 top_term:
-  - "1"
+  - "27"
 tags: [ ]
 categories:
   - Birthdays
@@ -39,3 +39,5 @@ I hope that your birthday today is extra special.
 Love,
 
 Jon
+
+[gallery ids="9,8,7"]
