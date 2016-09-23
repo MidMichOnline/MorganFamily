@@ -13,4 +13,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-Theresa woke me early one mo
+Theresa woke me early one morning to tell me. She showed me a pregnancy test that was positive. Later on we confirmed with a trip to the doctor, but that morning as the news that I was going to to be a father sunk
