@@ -11,6 +11,6 @@ permalink: 'http://www.shepherdhistory.org/morganfamily?p=32&preview=true&previe
 published: false
 tags: [ ]
 categories:
-  - Uncategorized
+  - Birthdays
 ---
-Theresa woke me early one morning to tell me. She showed me a pregnancy test that was positive. Later on we confirmed with a trip to the doctor, but that morning as the news that I was going to be a father sunk in, I began to realize the awesome responsibility I was going to have.
+Theresa woke me early one morning to tell me. She showed me a pregnancy test that was positive. Later on we confirmed with a trip to the doctor, but that morning as the news that I was going to be a father sunk in, I began to realize the awesome responsibility I was going to have. I drove very carefully to work that morning.
