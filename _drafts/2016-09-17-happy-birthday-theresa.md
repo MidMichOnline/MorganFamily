@@ -5,9 +5,8 @@ author: Jon Morgan
 post_date: 2016-09-17 15:16:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/morganfamily/2016/09/17/happy-birthday-theresa/
-published: true
+permalink: 'http://www.shepherdhistory.org/morganfamily?p=10&preview=true&preview_id=10'
+published: false
 custom_sidebar:
   - none
 featured_media:
