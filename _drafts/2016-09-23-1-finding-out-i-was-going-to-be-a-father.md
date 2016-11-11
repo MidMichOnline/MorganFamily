@@ -7,9 +7,8 @@ author: Jon Morgan
 post_date: 2016-09-23 12:09:10
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/morganfamily/2016/09/23/1-finding-out-i-was-going-to-be-a-father/
-published: true
+permalink: 'http://www.shepherdhistory.org/morganfamily?p=32&preview=true&preview_id=32'
+published: false
 afap_auto_post:
   - 'no'
 custom_sidebar:
