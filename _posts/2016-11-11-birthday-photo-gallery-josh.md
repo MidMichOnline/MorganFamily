@@ -10,8 +10,11 @@ permalink: >
 published: true
 custom_sidebar:
   - none
+top_term:
+  - "32"
 tags: [ ]
 categories:
+  - Birthdays
   - Josh
 ---
 [huge_it_gallery id="2"]
