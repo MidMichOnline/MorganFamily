@@ -26,9 +26,11 @@ featured_media:
     			<td class='field'><input id="attachments[52][navis_media_can_distribute]" name="attachments[52][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     		</tr>
     </table>";s:4:"meta";s:0:"";}}}
+top_term:
+  - "26"
 tags: [ ]
 categories:
-  - Uncategorized
+  - Birthdays
 ---
 One thing that's always amazed me about my kids is how much I've learned from them. Josh reminded me the importance of being fearless. I've always admired his ability to take on a challenge head on. As he's grown older, I've also grown to appreciate his sense of humor, and have enjoyed sharing my interests with him such as computers, Star Wars, Super Heroes. I don't think we can go more than a couple of days without getting into either a skirmish with Nerf guns, or a lightsaber duel.
 I hope that you have a super special 14th Birthday, Josh.
