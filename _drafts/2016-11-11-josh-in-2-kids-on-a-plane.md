@@ -17,4 +17,4 @@ The general idea of the video is that perhaps these two boys were the last ones 
 
 I feel a little bad about ending the video with the jet crashing. The last we see is the boys clinging to the side of the jet as it supposedly goes down. My theory is that they survived by letting go at the right moment, and were far enough from the jet when it crashed to be okay.
 
-This video is important to me because it reminds me of the time we spent together as a family at Greenfield Village,
+This video is important to me because it reminds me of the time we spent together as a family at Greenfield Village, and it is a moment I shared with my son and my nephew. They seemed to have a lot of fun playing inside that exhibit, and it was an interesting challenge molding the video I shot into a movie
