@@ -26,6 +26,8 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 custom_sidebar:
   - none
+top_term:
+  - "27"
 tags: [ ]
 categories:
   - Birthdays
