@@ -9,7 +9,7 @@ permalink: >
   http://www.shepherdhistory.org/morganfamily/2016/11/11/josh-the-baby-years/
 published: true
 custom_sidebar:
-  - sidebar-single
+  - none
 top_term:
   - "27"
 featured_media:
