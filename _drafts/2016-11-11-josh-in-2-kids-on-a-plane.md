@@ -11,4 +11,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-Eight years ago, I edited together footage I shot of Josh and my nephew, Alex, inside the "History of Airplanes" exhibit at the Henry Ford museum. I never planned to create this video, but
+Eight years ago, I edited together footage I shot of Josh and my nephew, Alex, inside the "History of Airplanes" exhibit at the Henry Ford museum. Everything was improvised, and I wasn't planning on doing anything with the video once I was home. But, after I was home and played bck
