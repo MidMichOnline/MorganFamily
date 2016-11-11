@@ -19,4 +19,4 @@ I feel a little bad about ending the video with the jet crashing. The last we se
 
 This video is important to me because it reminds me of the time we spent together as a family at Greenfield Village, and it is a moment I shared with my son and my nephew. They seemed to have a lot of fun playing inside that exhibit, and it was an interesting challenge taking what they did and molding it into a YouTube video.
 
-We watched the video again last weekend after it popped up in one of my YouTube searches. My youngest son, Elijah, was mesmerize
+We watched the video again last weekend after it popped up in one of my YouTube searches. My youngest son, Elijah, was mesmerized by it. Josh asked me if there as a chance that we could make a sequel. I told him that it couldn't be "2 Kids on a Plane," because we have very few kids now among all of the nieces and nephews. Perhaps if there was a sequel,
