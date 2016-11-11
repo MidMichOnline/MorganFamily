@@ -11,3 +11,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+While we were down around my mom and dad's house in Hartland, the kids and I (pre-Elijah) stopped by the playground behind one of the elementary schools there. I "just happened" to bring a set of lightsabers, and
