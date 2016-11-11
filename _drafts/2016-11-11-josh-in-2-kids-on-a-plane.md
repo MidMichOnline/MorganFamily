@@ -11,3 +11,4 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
+Eight years ago, I edited together footage I shot of Josh and my nephew, Alex, inside the "History of Airplanes" exhibit at the Henry Ford museum. The video developed out o
